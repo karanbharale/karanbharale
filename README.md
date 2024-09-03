@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Karan Bharale</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/df0bb8ly2/image/upload/v1725364065/data-science-2-mP4XPq0y3wUKory-unscreen_ey3rel.gif">
+<img align="right" alt="Coding" width="400" src="https://assets.zyrosite.com/Aq20eV79zLfpXV6b/data-science-2-mP4XPq0y3wUKory9.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karanbharale&label=Profile%20views&color=0e75b6&style=flat" alt="karanbharale" /> </p>
 
