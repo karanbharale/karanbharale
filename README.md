@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **karanbharale.work@gmail.com**
 
-- 📄 Know about my experiences - [Resume](https://drive.google.com/file/d/1TALgqSWDy_V252U47XEpZT28k81bjIfX/view?usp=sharing)
+- 📄 Know about my experiences - [Resume](https://drive.google.com/file/d/1gDtx0xDOiJiMG70AjOu2y56XDhbKtMN0/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
