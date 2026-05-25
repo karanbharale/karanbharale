@@ -13,11 +13,11 @@
 
 - 📫 How to reach me **karanbharale.work@gmail.com**
 
-- 📄 Know about my experiences - [Resume](https://drive.google.com/file/d/1gDtx0xDOiJiMG70AjOu2y56XDhbKtMN0/view?usp=sharing)
+- 📄 Know about my experiences - [Resume]([https://drive.google.com/file/d/1gDtx0xDOiJiMG70AjOu2y56XDhbKtMN0/view?usp=sharing](https://drive.google.com/file/d/1oCgz0oKPfrsdqxDF9TKkbkKX14-4ory_/view?usp=drivesdk))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/karan-bharale/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/karan-bharale/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/karan-bharale/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/karanbharale/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
